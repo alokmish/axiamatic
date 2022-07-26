@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Notion",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png"
+    },
+    {
+      "id": "2",
+      "title": "Jira",
+      "icon": "https://seeklogo.com/images/J/jira-logo-C71F8C0324-seeklogo.com.png"
+    },
+    {
+      "id": "3",
+      "title": "Slack",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Slack_icon_2019.svg"
+    },
+    {
+      "id": "4",
+      "title": "Azure",
+      "icon": "https://shashijeevan.com/wp-content/uploads/2020/02/azure-logo.png"
+    }
+  ],
+  "addedProducts": []
+}
