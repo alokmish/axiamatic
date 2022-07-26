@@ -1,46 +1,18 @@
-# Getting Started with Create React App
+# Axiamatic
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is an exercise I did while interviewing with Axiamatic.
 
-## Available Scripts
+## Goal
 
-In the project directory, you can run:
+Using ReactJS your exercise is to implement a responsive Product Selection Page as close to the design below
 
-### `yarn start`
+## Summary
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+The Axiamatic onboarding flow allows a team leader to sign-up and register his team and select the products to collect feedback from his team. The exercise is specific to the implementation of the Product Selection page.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Tasks
 
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+1. Build the page a close to the design
+2. Build the search bar with a list of products displayed (see Step 1 below). The data for the search bar could be locally stored (not on the browser)
+3. Allow products to be added to the four selection boxes (See Step 2 below).
+4. Save the products to the backend when Next button is selected (See Step 2 below)
